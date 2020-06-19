@@ -17,3 +17,13 @@ include_in_header: true
 - In danger
 - Discover
 - Works offline (iCloud sync will resume once connected to the internet, some photos may not be visible)
+- English and French localizations
+
+## **Version 1.0.1**
+
+#### What's New
+- Add link to world-heritage.app website
+- Add information to contact email to help with support
+
+#### Bug Fixes
+- Fix text alignment on favorites screen when empty
