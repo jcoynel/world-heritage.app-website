@@ -27,3 +27,10 @@ include_in_header: true
 
 #### Bug Fixes
 - Fix text alignment on favorites screen when empty
+
+## **Version 1.0.2**
+
+#### What's New
+- Improve VoiceOver support
+- Add search by country emoji
+- Add partial (sites data only) localisation for Arabic, Chinese, Spanish and Russian
