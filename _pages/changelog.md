@@ -34,3 +34,11 @@ include_in_header: true
 - Improve VoiceOver support
 - Add search by country emoji
 - Add partial (sites data only) localisation for Arabic, Chinese, Spanish and Russian
+
+## **Version 1.0.3**
+
+#### What's New
+- Add visited and favorite sites export to CSV
+
+#### Bug Fixes
+- Fix crash on iOS 14 and macOS 11 when tapping site on the map
