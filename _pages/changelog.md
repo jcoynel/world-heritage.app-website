@@ -42,3 +42,14 @@ include_in_header: true
 
 #### Bug Fixes
 - Fix crash on iOS 14 and macOS 11 when tapping site on the map
+
+## **Version 1.1.0**
+
+#### What's New
+- Improve design for iOS 14
+- Improve import of visited sites from photo library
+- Update World Heritage data for the most recent information and photos
+
+#### Bug Fixes
+- Fix a variety of colour and font bugs, introduced by iOS 14
+- Fix a variety of buttons not working or triggering the wrong action, introduced by iOS 14 
