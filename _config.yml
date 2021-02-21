@@ -62,6 +62,10 @@ features                                  :
     description                           : Your visited sites list and favorites are stored and synced to all your devices with iCloud.
     fontawesome_icon_name                 : cloud
 
+  - title                                 : Statistics
+    description                           : Take a glance at your World Heritage sites visits in numbers.
+    fontawesome_icon_name                 : chart-pie
+
   - title                                 : Light or Dark
     description                           : Full support for dark and light themes.
     fontawesome_icon_name                 : adjust

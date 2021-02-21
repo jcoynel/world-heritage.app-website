@@ -53,3 +53,11 @@ include_in_header: true
 #### Bug Fixes
 - Fix a variety of colour and font bugs, introduced by iOS 14
 - Fix a variety of buttons not working or triggering the wrong action, introduced by iOS 14 
+
+## **Version 1.2.0**
+
+#### What's New
+- Add statistics to give you a glance at your World Heritage sites visits in numbers
+- Update World Heritage data for the most recent information and photos
+- Improve import of visited sites from photo library (macOS only)
+- Update app icon for macOS Big Sur (macOS only)
