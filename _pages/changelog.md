@@ -95,3 +95,16 @@ include_in_header: true
 - Fix Jerusalem not showing in lists when sorted by country
 - Fix layout issue on site detail screen
 
+## **Version 1.4.1**
+
+#### What's New
+
+- Add all 34 newly listed sites in July 2021
+- Add delisted sites
+- Update sites in danger
+
+#### Bug Fixes
+
+- Fix Jerusalem not showing in lists when sorted by country
+- Fix layout issue on site detail screen
+
