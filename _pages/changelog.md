@@ -108,3 +108,9 @@ include_in_header: true
 - Fix Jerusalem not showing in lists when sorted by country
 - Fix layout issue on site detail screen
 
+## **Version 1.4.2**
+
+#### Bug Fixes
+
+- Fix bugs on iOS 15
+
