@@ -114,3 +114,10 @@ include_in_header: true
 
 - Fix bugs on iOS 15
 
+## **Version 1.5.0**
+
+#### What's New
+
+- Improve design for iOS 15
+- Improve VoiceOver support
+- "Contact us" link now opens in your default email client
