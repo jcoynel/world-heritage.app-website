@@ -6,6 +6,12 @@ include_in_header: true
 
 # Changelog
 
+## **Version 1.5.1**
+
+#### Bug Fixes
+
+- Fix bugs on macOS 12 Monterey
+
 ## **Version 1.5.0**
 
 #### What's New
