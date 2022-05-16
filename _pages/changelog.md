@@ -6,6 +6,13 @@ include_in_header: true
 
 # Changelog
 
+## **Version 1.6.0**
+
+#### What's New
+
+- See your current location on the map (iOS only)
+- Update World Heritage data for the most recent information and photos
+
 ## **Version 1.5.1**
 
 #### Bug Fixes
