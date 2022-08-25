@@ -6,6 +6,17 @@ include_in_header: true
 
 # Changelog
 
+## **Version 1.7.0**
+
+#### What's New
+
+- Add filter by "not visited" on the map
+- Update World Heritage data for the most recent information and photos
+
+#### Bug Fixes
+
+- Fix crash on site detail screen
+
 ## **Version 1.6.0**
 
 #### What's New
