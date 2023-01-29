@@ -6,6 +6,12 @@ include_in_header: true
 
 # Changelog
 
+## **Version 1.8.0**
+
+#### What's New
+
+- Add all 3 newly listed sites in January 2023
+
 ## **Version 1.7.0**
 
 #### What's New
