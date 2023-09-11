@@ -6,6 +6,20 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.0.0**
+
+#### What's New
+
+- Add reason for sites being delisted
+- Improve design
+- Update World Heritage data for the most recent information and photos
+
+#### Bug Fixes
+
+- Fix blank screen when opening the app in portrait orientation on iPad
+- Fix statistics showing too many countries
+- Fix various other bugs
+
 ## **Version 1.8.0**
 
 #### What's New
