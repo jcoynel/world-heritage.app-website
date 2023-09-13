@@ -6,6 +6,13 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.1.0**
+
+#### What's New
+
+- Add Wikipedia links on site detail screen
+- Improve design
+
 ## **Version 2.0.0**
 
 #### What's New
