@@ -6,6 +6,15 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.2.0**
+
+#### What's New
+
+- Add the 42 new sites inscribed in September 2023
+- Add Wikipedia links on site detail screen in French
+- Optimised for iOS 17
+- Improve design
+
 ## **Version 2.1.0**
 
 #### What's New
