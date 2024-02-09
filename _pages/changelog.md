@@ -6,6 +6,12 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.4.0**
+
+#### What's New
+
+- Update World Heritage data for the most recent information and photos
+
 ## **Version 2.3.0**
 
 #### What's New
