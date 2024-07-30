@@ -6,6 +6,18 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.6.0**
+
+#### What's New
+
+- Add the 24 new sites inscribed in July 2024
+- Update World Heritage data for the most recent information and photos
+
+#### Bug Fixes
+
+- Remove Russian translations
+- Fix an issue causing justification to show the same text as the description
+
 ## **Version 2.5.0**
 
 #### What's New
