@@ -6,6 +6,14 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.7.0**
+
+#### What's New
+
+- Add full list and map for sites with multiple locations
+- Add swipe action to add to favourites or visited on sites lists
+- Update World Heritage data for the most recent information and photos
+
 ## **Version 2.6.0**
 
 #### What's New
