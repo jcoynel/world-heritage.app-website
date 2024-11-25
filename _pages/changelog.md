@@ -6,6 +6,14 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.8.0**
+
+#### What's New
+
+- Optimised for iOS 18 and macOS 15 Sequoia
+- Update World Heritage data for the most recent information and photos
+- Fix various bugs
+
 ## **Version 2.7.0**
 
 #### What's New
