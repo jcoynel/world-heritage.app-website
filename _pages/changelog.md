@@ -6,6 +6,13 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.9.0**
+
+#### What's New
+
+- Add dark app icon
+- Update World Heritage data for the most recent information and photos
+
 ## **Version 2.8.0**
 
 #### What's New
