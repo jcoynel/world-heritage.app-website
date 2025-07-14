@@ -6,6 +6,12 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.11.0**
+
+#### What's New
+
+- Add the 26 new sites inscribed in July 2025
+
 ## **Version 2.10.0**
 
 #### What's New
