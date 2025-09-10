@@ -6,6 +6,14 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.12.0**
+
+#### What's New
+
+- Translate site details to the language of your choice (iOS only)
+- Improved design for iOS 26 and macOS 26 Tahoe
+- Update World Heritage data for the most recent information and photos
+
 ## **Version 2.11.1**
 
 #### What's New
