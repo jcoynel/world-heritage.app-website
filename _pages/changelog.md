@@ -6,6 +6,13 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.14.0**
+
+#### What's New
+
+- Add the 25 new sites inscribed in July 2026
+- Add Spanish, Arabic and Chinese UI translations
+
 ## **Version 2.13.0**
 
 #### What's New
