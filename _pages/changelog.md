@@ -6,6 +6,15 @@ include_in_header: true
 
 # Changelog
 
+## **Version 3.0**
+
+#### What's New
+
+- Optimised for iOS 27 and macOS 27
+- Support iPhone Duo
+- Improved filters and sort
+- Update World Heritage data for the most recent information and photos
+
 ## **Version 2.14.0**
 
 #### What's New
